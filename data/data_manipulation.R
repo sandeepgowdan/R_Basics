@@ -10,6 +10,7 @@ print(sequence)
 sequence <- seq(0, 20, by = 2)
 print(sequence)
 
+
 sequence <- seq(1, 5, by = 0.5)
 print(sequence)
 
