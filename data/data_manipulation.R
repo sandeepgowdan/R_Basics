@@ -14,6 +14,7 @@ print(sequence)
 sequence <- seq(1, 5, by = 0.5)
 print(sequence)
 
+
 ##Generate a sequence with a specified length
 sequence <- seq(1, 10, length.out = 5)
 print(sequence)
