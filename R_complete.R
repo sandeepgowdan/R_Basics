@@ -283,6 +283,8 @@ random_sample <- sample(c("A", "B", "C", "D", "E"), size = 3, replace = TRUE)
 print(random_sample)
 
 
+
+
 ### seq function##
 seq(from, to, by, length.out, along.with)
 # Generate a sequence from 1 to 10
