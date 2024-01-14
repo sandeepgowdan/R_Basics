@@ -6,6 +6,7 @@ rm(list=ls())
 sequence <- seq(1, 10)
 print(sequence)
 
+
 sequence <- seq(0, 20, by = 2)
 print(sequence)
 
