@@ -1,7 +1,5 @@
 # Clear the entire workspace
-
 rm(list = ls())
-
 
 getwd()  ##get the working directory
 setwd("F:/Statstical Analysis in Plant Breeding")
@@ -13,7 +11,7 @@ help(lapply) ##Apply a Function over a List or Vector
 sd(1:2) ^ 2
 ?round()
 
-help.search("regression")
+help.search("regression") ## regression
 ??regression
 
 # Setting a seed number for reproducibility
