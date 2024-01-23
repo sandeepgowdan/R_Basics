@@ -2,10 +2,8 @@ rm(list=ls())
 
 ## creating and sequwnce and different sequence operations
 #seq(from, to, by = increment)
-
 sequence <- seq(1, 10)
 print(sequence)
-
 
 sequence <- seq(0, 20, by = 2)
 print(sequence)
